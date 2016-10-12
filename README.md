@@ -428,7 +428,7 @@
  - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
  
  
-### Android模块化分类
+### Android开发中优秀的开源组件库
  - [列表List](https://github.com/XXApple/AndroidLibs/tree/master/%E5%88%97%E8%A1%A8List) 
  - [动画Animation](https://github.com/XXApple/AndroidLibs/tree/master/%E5%8A%A8%E7%94%BBAnimation)
  - [图标Icon](https://github.com/XXApple/AndroidLibs/tree/master/%E5%9B%BE%E6%A0%87Icon)
