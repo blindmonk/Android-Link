@@ -446,3 +446,7 @@
  - [菜单Menu](https://github.com/XXApple/AndroidLibs/tree/master/%E8%8F%9C%E5%8D%95Menu)
  - [辅助工具类Utils](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E7%B1%BBUtils)
  - [进度条Progressbar](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BF%9B%E5%BA%A6%E6%9D%A1Progressbar)
+ 
+### License
+
+以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有
