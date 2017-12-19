@@ -9,7 +9,7 @@
 
 
  
-## 基础自定义View
+### 基础自定义View
  - [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex/) (很详细自定义View包括相关Api介绍)
  - [Gallery 3D效果](http://blog.csdn.net/leehong2005/article/details/8070538)
  - [SlidingDrawer抽屉效果](http://blog.csdn.net/xyz_lmn/article/details/6906689)
@@ -24,7 +24,7 @@
  - [Paint之 setXfermode PorterDuffXfermode 讲解](http://blog.csdn.net/tianjian4592/article/details/44783283)
 
 
-## View组件库
+### View组件库
  - [列表相关List](https://github.com/XXApple/AndroidLibs/tree/master/%E5%88%97%E8%A1%A8List) 
  - [动画相关Animation](https://github.com/XXApple/AndroidLibs/tree/master/%E5%8A%A8%E7%94%BBAnimation)
  - [图标Icon](https://github.com/XXApple/AndroidLibs/tree/master/%E5%9B%BE%E6%A0%87Icon)
@@ -43,7 +43,7 @@
  - [辅助工具类Utils](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E7%B1%BBUtils)
  - [进度条Progressbar](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BF%9B%E5%BA%A6%E6%9D%A1Progressbar)
  
- ## 项目组件库
+ ### 项目组件库
 - [Android Libraries and Resources ](http://alamkanak.github.io/android-libraries-and-resources/)
 - [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站, 网站经常更新)
 - [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)
