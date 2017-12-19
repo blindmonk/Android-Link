@@ -3,13 +3,18 @@
 
 ## 目录
 * ### Android自定义相关
-    * [基础自定义view](#基础自定义view)
-    * [View组件库](#view组件库)
-    * [项目组件库](#项目组件库)
+   * [基础篇](#Android-基础自定义view)
+   * [View组件库](#Android-View组件库)
+   * [项目组件库](#Android-项目组件库)
+    
+* ### Android动画相关
+   * [基础篇](#Android-动画基础)
+   * [开源库](#Android-动画开源库)
+   * [源码分析](#Android-动画源码分析)
 
+=============================================================
 
- 
-### 基础自定义View
+### Android 基础自定义view
  - [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex/) (很详细自定义View包括相关Api介绍)
  - [Gallery 3D效果](http://blog.csdn.net/leehong2005/article/details/8070538)
  - [SlidingDrawer抽屉效果](http://blog.csdn.net/xyz_lmn/article/details/6906689)
@@ -24,7 +29,7 @@
  - [Paint之 setXfermode PorterDuffXfermode 讲解](http://blog.csdn.net/tianjian4592/article/details/44783283)
 
 
-### View组件库
+### Android View组件库
  - [列表相关List](https://github.com/XXApple/AndroidLibs/tree/master/%E5%88%97%E8%A1%A8List) 
  - [动画相关Animation](https://github.com/XXApple/AndroidLibs/tree/master/%E5%8A%A8%E7%94%BBAnimation)
  - [图标Icon](https://github.com/XXApple/AndroidLibs/tree/master/%E5%9B%BE%E6%A0%87Icon)
@@ -43,13 +48,29 @@
  - [辅助工具类Utils](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E7%B1%BBUtils)
  - [进度条Progressbar](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BF%9B%E5%BA%A6%E6%9D%A1Progressbar)
  
- ### 项目组件库
+ ### Android 项目组件库
 - [Android Libraries and Resources ](http://alamkanak.github.io/android-libraries-and-resources/)
 - [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站, 网站经常更新)
 - [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)
 - [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)
 - [泡在网上的日子库汇总](http://www.jcodecraeer.com/plus/list.php?tid=31)
 - [android-gems国外定期上传开源库](http://www.android-gems.com/)
+
+
+ ### Android 动画基础
+- [Android补间动画、属性动画 常用功能总结](http://www.jianshu.com/p/ec62b81df7ed)
+- [动画基础组件、类详讲](http://www.360doc.com/content/13/0102/22/6541311_257754535.shtml)
+- [Interpolator 图形化生成的贝塞尔插值器](http://www.cnblogs.com/benhero/p/4377374.html)
+
+ ### Android 动画开源库
+- [View、Acitvity过度基础动画库](https://github.com/hitherejoe/animate)
+- [awesome 定期更新动画相关包含IOS](https://github.com/Animatious/awesome-animation)
+- [Material-Animations 比较知名的Android过场转换动画](https://github.com/lgvalle/Material-Animations)
+- [AndroidViewAnimations 输入框、文字相关动画](https://github.com/daimajia/AndroidViewAnimations)
+
+ ### Android 动画源码分析
+- [Android动画的实现流程](http://blog.csdn.net/startfromweb/article/details/7644405)
+- [Android Animation运行原理详解](http://www.jianshu.com/p/fcd9c7e9937e)
 
 
 ## Docker
