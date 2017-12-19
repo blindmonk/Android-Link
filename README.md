@@ -1,9 +1,32 @@
 
 ## Android 开发中的日常积累
 
-## Android自定义开源组件库
- - [列表List](https://github.com/XXApple/AndroidLibs/tree/master/%E5%88%97%E8%A1%A8List) 
- - [动画Animation](https://github.com/XXApple/AndroidLibs/tree/master/%E5%8A%A8%E7%94%BBAnimation)
+## 目录
+* ### android自定义相关
+    * [基础自定义view](#基础自定义view)
+    * [View组件库](#view组件库)
+    * [项目组件库](#项目组件库)
+
+
+ 
+## 基础自定义View
+ - [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex/) (很详细自定义View包括相关Api介绍)
+ - [Gallery 3D效果](http://blog.csdn.net/leehong2005/article/details/8070538)
+ - [SlidingDrawer抽屉效果](http://blog.csdn.net/xyz_lmn/article/details/6906689)
+ - [绚丽的枫叶loading效果分析实践](http://blog.csdn.net/tianjian4592/article/details/44538605)
+ - [Math用法](http://blog.csdn.net/heng615975867/article/details/13769341)
+ - [oMeasure初看，深入理解](http://www.cppblog.com/guojingjia2006/archive/2012/03/27/169214.html)
+ - [360全景视频螺旋仪](http://download.csdn.net/download/ujjldx/9315333)
+ - [android中moveTo,lineTo,quadTo···详解](https://segmentfault.com/a/1190000000721127)
+ - [andoird复杂的列表视图新鞋发MutiType](http://gank.io/post/5823bcf6421aa90e799ec2ad)
+ - [贝塞尔曲线](http://www.jianshu.com/p/9eef2a713d33)
+ - [快速放些京东、天猫下拉刷新](http://www.jianshu.com/p/9daaa87045d0)
+ - [Paint之 setXfermode PorterDuffXfermode 讲解](http://blog.csdn.net/tianjian4592/article/details/44783283)
+
+
+## View组件库
+ - [列表相关List](https://github.com/XXApple/AndroidLibs/tree/master/%E5%88%97%E8%A1%A8List) 
+ - [动画相关Animation](https://github.com/XXApple/AndroidLibs/tree/master/%E5%8A%A8%E7%94%BBAnimation)
  - [图标Icon](https://github.com/XXApple/AndroidLibs/tree/master/%E5%9B%BE%E6%A0%87Icon)
  - [图片框架Image](https://github.com/XXApple/AndroidLibs/tree/master/%E5%9B%BE%E7%89%87%E6%A1%86%E6%9E%B6Image)
  - [图表Chart](https://github.com/XXApple/AndroidLibs/tree/master/%E5%9B%BE%E8%A1%A8Chart)
@@ -19,6 +42,15 @@
  - [菜单Menu](https://github.com/XXApple/AndroidLibs/tree/master/%E8%8F%9C%E5%8D%95Menu)
  - [辅助工具类Utils](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E7%B1%BBUtils)
  - [进度条Progressbar](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BF%9B%E5%BA%A6%E6%9D%A1Progressbar)
+ 
+ ## 项目组件库
+- [Android Libraries and Resources ](http://alamkanak.github.io/android-libraries-and-resources/)
+- [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站, 网站经常更新)
+- [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)
+- [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)
+- [泡在网上的日子库汇总](http://www.jcodecraeer.com/plus/list.php?tid=31)
+- [android-gems国外定期上传开源库](http://www.android-gems.com/)
+
 
 ## Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
