@@ -11,6 +11,11 @@
    * [基础篇](#android-动画基础)
    * [开源库](#android-动画开源库)
    * [源码分析](#android-动画源码分析)
+   
+* ### Android优化相关 
+   * [性能优化](#android-性能优化)
+   * [内存优化](#android-内存优化)
+   * [OOM、ANR相关](#android-oom-anr)
 
 =============================================================
 
@@ -47,7 +52,7 @@
  - [辅助工具类Utils](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E7%B1%BBUtils)
  - [进度条Progressbar](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BF%9B%E5%BA%A6%E6%9D%A1Progressbar)
  
- ### Android 项目组件库
+### Android 项目组件库
 - [Android Libraries and Resources ](http://alamkanak.github.io/android-libraries-and-resources/)
 - [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站, 网站经常更新)
 - [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)
@@ -56,20 +61,51 @@
 - [android-gems国外定期上传开源库](http://www.android-gems.com/)
 
 
- ### Android 动画基础
+### Android 动画基础
 - [Android补间动画、属性动画 常用功能总结](http://www.jianshu.com/p/ec62b81df7ed)
 - [动画基础组件、类详讲](http://www.360doc.com/content/13/0102/22/6541311_257754535.shtml)
 - [Interpolator 图形化生成的贝塞尔插值器](http://www.cnblogs.com/benhero/p/4377374.html)
 
- ### Android 动画开源库
+### Android 动画开源库
 - [View、Acitvity过度基础动画库](https://github.com/hitherejoe/animate)
 - [awesome 定期更新动画相关包含IOS](https://github.com/Animatious/awesome-animation)
 - [Material-Animations 比较知名的Android过场转换动画](https://github.com/lgvalle/Material-Animations)
 - [AndroidViewAnimations 输入框、文字相关动画](https://github.com/daimajia/AndroidViewAnimations)
 
- ### Android 动画源码分析
+### Android 动画源码分析
 - [Android动画的实现流程](http://blog.csdn.net/startfromweb/article/details/7644405)
 - [Android Animation运行原理详解](http://www.jianshu.com/p/fcd9c7e9937e)
+
+
+
+### Android 性能优化
+ - [优化基础和控件](http://blog.csdn.net/xyz_lmn/article/details/13870027)
+ - [Android界面性能调优手册](https://segmentfault.com/a/1190000004547751)
+ - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
+ - [APK瘦身记，如何实现高达53%的压缩效果](https://zhuanlan.zhihu.com/p/23882195?from=groupmessage)
+ - [胡凯-性能优化](http://hukai.me/blog/archives/)
+ - [Android最佳性能实践(1)：合理管理内存](http://blog.csdn.net/guolin_blog/article/details/42238627)
+ - [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
+ - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
+ - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
+ - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
+ - [Android性能优化典范（一）从各个方面分析](http://www.csdn.net/article/2015-01-20/2823621-android-performance-patterns)
+ - [Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
+ 
+### Android 内存优化
+- [Android内存优化(大汇总——中)](http://blog.csdn.net/a396901990/article/details/38707007)
+- [使用新版Android Studio检测内存泄露和性能](https://www.2cto.com/kf/201512/455421.html)
+- [Android 内存管理机制](http://www.jianshu.com/p/5bd50b15177f)
+- [Android 内存管理分析总结](http://www.jianshu.com/p/8b1d9c86fa84)
+- [Android 内存管理与优化](http://www.jianshu.com/p/8b1d9c86fa84)
+
+### Android OOM ANR
+- [什么情况导致oom](http://blog.csdn.net/a396901990/article/details/38707007)
+- [Android内存优化之OOM](http://www.jianshu.com/p/b6a65519a1a0)
+- [Android避免OOM](http://www.jianshu.com/p/f5d8d3066b36)
+- [ANR定位和修正](http://www.jackywang.tech/AndroidInterview-Q-A/chinese/subject/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html)
+- [Android ANR：原理分析及解决办法](http://www.jianshu.com/p/388166988cef)
+- [ANR 原理与实战技巧  通过log的方式分析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0902/8459.html)
 
 
 ## Docker
@@ -84,15 +120,6 @@
  - [http2-spec](https://http2.github.io/http2-spec/#malformed)
  - [从启用 HTTP/2 导致网站无法访问说起](https://imququ.com/post/why-tls-handshake-failed-with-http2-enabled.html?f=http://blogread.cn/)
 
-### Android 性能优化
- - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
- - [胡凯-性能优化](http://hukai.me/blog/archives/)
- - [Android最佳性能实践(1)：合理管理内存](http://blog.csdn.net/guolin_blog/article/details/42238627)
- - [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
- - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
- - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
- - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
- - [Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
 
 ### Android Hybrid&JSBridge技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
