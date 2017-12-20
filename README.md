@@ -3,14 +3,14 @@
 
 ## 目录
 * ### Android自定义相关
-   * [基础篇](#Android-基础自定义view)
-   * [View组件库](#Android-View组件库)
-   * [项目组件库](#Android-项目组件库)
+   * [基础篇](#android-基础自定义view)
+   * [View组件库](#android-view组件库)
+   * [项目组件库](#android-项目组件库)
     
 * ### Android动画相关
-   * [基础篇](#Android-动画基础)
-   * [开源库](#Android-动画开源库)
-   * [源码分析](#Android-动画源码分析)
+   * [基础篇](#android-动画基础)
+   * [开源库](#android-动画开源库)
+   * [源码分析](#android-动画源码分析)
 
 =============================================================
 
@@ -27,7 +27,6 @@
  - [贝塞尔曲线](http://www.jianshu.com/p/9eef2a713d33)
  - [快速放些京东、天猫下拉刷新](http://www.jianshu.com/p/9daaa87045d0)
  - [Paint之 setXfermode PorterDuffXfermode 讲解](http://blog.csdn.net/tianjian4592/article/details/44783283)
-
 
 ### Android View组件库
  - [列表相关List](https://github.com/XXApple/AndroidLibs/tree/master/%E5%88%97%E8%A1%A8List) 
