@@ -16,6 +16,13 @@
    * [性能优化](#android-性能优化)
    * [内存优化](#android-内存优化)
    * [OOM、ANR相关](#android-oom-anr)
+   
+* ### Android值得关注的技术 
+   * [插件化与动态加载](#android-插件与动态加载)
+   * [组件化](#android-热更新)
+   * [热更新](#android-热更新)
+   * [RxJava、agera](#rxjava-agera相关资料)
+
 
 =============================================================
 
@@ -108,46 +115,7 @@
 - [ANR 原理与实战技巧  通过log的方式分析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0902/8459.html)
 
 
-## Docker
- - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
-
-## HTTP2.0
- - [测试是否支持http2.0，需翻墙](https://tools.keycdn.com/http2-test)
- - [httpvshttps](http://www.httpvshttps.com/)
- - [chrome 插件HTTP/2 and SPDY indicator](https://chrome.google.com/webstore/detail/mpbpobfflnpcgagjijhmgnchggcjblin)
- - [HTTP/2 资料汇总](https://imququ.com/post/http2-resource.html)
- - [HTTP 2.0的那些事](http://mrpeak.cn/blog/http2/)
- - [http2-spec](https://http2.github.io/http2-spec/#malformed)
- - [从启用 HTTP/2 导致网站无法访问说起](https://imququ.com/post/why-tls-handshake-failed-with-http2-enabled.html?f=http://blogread.cn/)
-
-
-### Android Hybrid&JSBridge技术
- - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
- - [谈谈App混合开发](http://www.tuicool.com/articles/m6RVFfA)
- - [在WebView中如何让JS与Java安全地互相调用](http://blog.csdn.net/xyz_lmn/article/details/39399225)
- - [WebView中接口隐患与手机挂马利用](http://blog.csdn.net/marshalchen/article/details/11124541)
- - [ Android JSBridge的原理与实现](http://blog.csdn.net/sbsujjbcy/article/details/50752595)
-
-### React Native 与 Weex 专题
- - [weex](http://alibaba.github.io/weex/)
- - [深入源码探索 ReactNative 通信机制](https://segmentfault.com/a/1190000004586390)
- - [React Native首屏白屏优化](https://segmentfault.com/a/1190000004743424)
- - [React Native专题系列文章更新ing(涉及基础,组件,进阶以及开源项目)](http://www.lcode.org/react-native/)
- - [React-native-Android-热更新](http://richard-cao.github.io/2015/12/03/React-native-Android-热更新/)
- - [React-Native学习指南](https://github.com/ele828/react-native-guide)
- - [Facebook的react-native](http://facebook.github.io/react-native/)
- - [React Native: 配置和起步](http://www.liaohuqiu.net/cn/posts/react-native-1/)
- - [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
- - [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
- - [JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native)
- - [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
- - [react-native-viewpager](https://github.com/race604/react-native-viewpager)
- - [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
- - [【React Native for Android】jsBridge实现原理](http://blog.desmondyao.com/2016/07/02/rn-bridge/)
- - [其实没那么复杂！探究react-native通信机制](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)
-
-
-### Android插件化开发与动态加载
+### Android 插件与动态加载
  - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
@@ -185,7 +153,63 @@
  - [从Instant-Run出发，谈谈Android上的热修复](http://zjutkz.net/2016/05/10/%E4%BB%8EInstant-Run%E5%87%BA%E5%8F%91%EF%BC%8C%E8%B0%88%E8%B0%88Android%E4%B8%8A%E7%9A%84%E7%83%AD%E4%BF%AE%E5%A4%8D/)
  - [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
  - [美团Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
+ 
+ 
+ ### RxJava agera相关资料
+ - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
+ - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
+ - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
+ - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+ - [在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
+ - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+ - [谜之RxJava （一） —— 最基本的观察者模式](https://segmentfault.com/a/1190000004049490)
+ - [谜之RxJava （二） —— Magic Lift](https://segmentfault.com/a/1190000004049841)
+ - [迷之RxJava （三）—— 线程切换](https://segmentfault.com/a/1190000004051191)
+ - [迷之RxJava （三）update —— 线程切换（二）](https://segmentfault.com/a/1190000004855661)
+ - [迷之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
+ - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
+ - [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
+ - [agera](https://github.com/google/agera/wiki)
+ - [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
+
+## Docker
+ - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
+
+## HTTP2.0
+ - [测试是否支持http2.0，需翻墙](https://tools.keycdn.com/http2-test)
+ - [httpvshttps](http://www.httpvshttps.com/)
+ - [chrome 插件HTTP/2 and SPDY indicator](https://chrome.google.com/webstore/detail/mpbpobfflnpcgagjijhmgnchggcjblin)
+ - [HTTP/2 资料汇总](https://imququ.com/post/http2-resource.html)
+ - [HTTP 2.0的那些事](http://mrpeak.cn/blog/http2/)
+ - [http2-spec](https://http2.github.io/http2-spec/#malformed)
+ - [从启用 HTTP/2 导致网站无法访问说起](https://imququ.com/post/why-tls-handshake-failed-with-http2-enabled.html?f=http://blogread.cn/)
+
+
+### Android Hybrid&JSBridge技术
+ - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
+ - [谈谈App混合开发](http://www.tuicool.com/articles/m6RVFfA)
+ - [在WebView中如何让JS与Java安全地互相调用](http://blog.csdn.net/xyz_lmn/article/details/39399225)
+ - [WebView中接口隐患与手机挂马利用](http://blog.csdn.net/marshalchen/article/details/11124541)
+ - [ Android JSBridge的原理与实现](http://blog.csdn.net/sbsujjbcy/article/details/50752595)
+
+### React Native 与 Weex 专题
+ - [weex](http://alibaba.github.io/weex/)
+ - [深入源码探索 ReactNative 通信机制](https://segmentfault.com/a/1190000004586390)
+ - [React Native首屏白屏优化](https://segmentfault.com/a/1190000004743424)
+ - [React Native专题系列文章更新ing(涉及基础,组件,进阶以及开源项目)](http://www.lcode.org/react-native/)
+ - [React-native-Android-热更新](http://richard-cao.github.io/2015/12/03/React-native-Android-热更新/)
+ - [React-Native学习指南](https://github.com/ele828/react-native-guide)
+ - [Facebook的react-native](http://facebook.github.io/react-native/)
+ - [React Native: 配置和起步](http://www.liaohuqiu.net/cn/posts/react-native-1/)
+ - [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
+ - [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
+ - [JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native)
+ - [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
+ - [react-native-viewpager](https://github.com/race604/react-native-viewpager)
+ - [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
+ - [【React Native for Android】jsBridge实现原理](http://blog.desmondyao.com/2016/07/02/rn-bridge/)
+ - [其实没那么复杂！探究react-native通信机制](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)
 
  
 ### Android 加固与反编译
@@ -234,23 +258,6 @@
  - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
  - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
  - [Android Studio 插件整理 48 个](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
-
-### RxJava&&RxAndroid&&agera学习资源
- - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
- - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
- - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
- - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
- - [在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
- - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
- - [谜之RxJava （一） —— 最基本的观察者模式](https://segmentfault.com/a/1190000004049490)
- - [谜之RxJava （二） —— Magic Lift](https://segmentfault.com/a/1190000004049841)
- - [迷之RxJava （三）—— 线程切换](https://segmentfault.com/a/1190000004051191)
- - [迷之RxJava （三）update —— 线程切换（二）](https://segmentfault.com/a/1190000004855661)
- - [迷之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
- - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
- - [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
- - [agera](https://github.com/google/agera/wiki)
- - [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 
 ### Gradle
