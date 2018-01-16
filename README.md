@@ -101,6 +101,8 @@
  - [Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
  
 ### Android 内存优化
+- [Android 内存暴减的秘密？！](https://mp.weixin.qq.com/s/kYFxXvL2SrxhKATWgYpOPg)
+- [我这样减少了26.5M Java内存！](https://mp.weixin.qq.com/s/ZGpGXM8wGiSr-jtrxU3ALA)
 - [Android内存优化(大汇总——中)](http://blog.csdn.net/a396901990/article/details/38707007)
 - [使用新版Android Studio检测内存泄露和性能](https://www.2cto.com/kf/201512/455421.html)
 - [Android 内存管理机制](http://www.jianshu.com/p/5bd50b15177f)
@@ -117,6 +119,7 @@
 
 
 ### Android 插件与动态加载
+ - [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
  - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
