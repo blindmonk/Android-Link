@@ -182,13 +182,13 @@
 
 ### 面试
 
-- [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A)
+- [面试总结-java和android](https://github.com/JackyAndroid/AndroidInterview-Q-A)
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) (非常详细的面试资料, 涉及 Android, Java, 设计模式, 算法等)
-- [80% 以上简历都是不合格的](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef4770)
+- [80% 以上简历都是不合格的-面试要种简历查抓起](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef4770)
 - [推荐两个技术简历模板](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f)
-- [Android 面试那些事儿](https://zhuanlan.zhihu.com/p/21565914)
-- [精益技术简历之道——改善技术简历的47条原则](http://lucida.me/blog/lean-technical-resume/)
-- [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
+- [Android 面试那些事儿-聊聊心得](https://zhuanlan.zhihu.com/p/21565914)
+- [改善技术简历的47条原则-比较意思](http://lucida.me/blog/lean-technical-resume/)
+- [比较全Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 
 ## Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
