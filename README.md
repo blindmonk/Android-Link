@@ -2,22 +2,22 @@
 ## Android 开发中的日常积累
 
 ## 目录
-* ### Android自定义相关
+* ### Android自定义
    * [基础篇](#android-基础自定义view)
    * [View组件库](#android-view组件库)
    * [项目组件库](#android-项目组件库)
     
-* ### Android动画相关
+* ### Android动画
    * [基础篇](#android-动画基础)
    * [开源库](#android-动画开源库)
    * [源码分析](#android-动画源码分析)
    
-* ### Android优化相关 
+* ### Android优化
    * [性能优化](#android-性能优化)
    * [内存优化](#android-内存优化)
    * [OOM、ANR相关](#android-oom-anr)
    
-* ### Android值得关注的技术 
+* ### Android值得关注的
    * [插件化与动态加载](#android-插件与动态加载)
    * [组件化](#android-热更新)
    * [热更新](#android-热更新)
