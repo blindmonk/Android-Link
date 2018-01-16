@@ -25,6 +25,8 @@
    
 * ### [Android面试](#面试)
 
+* ### [Android Studio](#android-studio)
+
 
 =============================================================
 
@@ -190,6 +192,42 @@
 - [改善技术简历的47条原则-比较意思](http://lucida.me/blog/lean-technical-resume/)
 - [比较全Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 
+
+### Android Studio
+ - [studio基本使用](https://github.com/ruijun/Android-Dev-Favorites/tree/master/Android%20Studio)
+ - [查看依赖关系的插件](https://github.com/rholder/gradle-view)
+ - [Android Studio 比较热门的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
+ - [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+ - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
+ - [方法数统计插件，可用于统计是否达到65536个方法](https://github.com/KeepSafe/dexcount-gradle-plugin)
+ - [Android-Drawable-Importer插件](https://github.com/winterDroid/android-drawable-importer-intellij-plugin)
+ - [GsonFormat Json对应的Bean快速生成插件](https://github.com/zzz40500/GsonFormat)
+ - [android-selector-chapek Selector生成插件](https://github.com/inmite/android-selector-chapek)
+ - [快速生成butterknife注解插件](https://github.com/avast/android-butterknife-zelezny)
+ - [android-material-design-icon-generator图标插件](https://github.com/konifar/android-material-design-icon-generator-plugin)
+ - [Retrolambda 在java 6 7中使用 lambda表达式插件](https://github.com/evant/gradle-retrolambda)
+ - [Gradle依赖自动补齐插件](https://github.com/ligi/GradleDependenciesHelperPlugin)
+ - [idea-markdown编辑器插件](https://github.com/nicoulaj/idea-markdown)
+ - [从布局中生成View的声明插件](https://github.com/Haehnchen/idea-android-studio-plugin)
+ - [codota代码片段搜索，支持Chrome和Android Studio](https://www.codota.com/)
+ - [布局文件分组插件](https://github.com/dmytrodanylyk/folding-plugin)
+ - [DPI计算插件](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
+ - [gradle-publish 发布库插件](https://github.com/msdx/gradle-publish)
+ - [发布lib到jcenter](https://github.com/andforce/release-android-lib-to-jcenter)
+ - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
+ - [android-studio-tips-tricks-moving-around/](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
+ - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
+ - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
+ - [Android Studio 插件整理 48 个](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
+
+
+
 ## Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
 
@@ -242,39 +280,6 @@
  - [Apk脱壳圣战之---如何脱掉“360加固”的壳](https://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229991&idx=1&sn=0fc62c65609143936d10849de6eb8069&scene=2&srcid=0629LJbsgjl7ctiSLYjRYXf5&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8a22350257773584f0e2dc2ae515c3e0b8779155f7a039c04e16a736510fe4d44b761a3f2b651a43b&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
  - [Android脱壳圣战之---如何脱掉"爱加密"家的保护壳](http://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229983&idx=1&sn=de2bd1a408d74e102ecd13a05512d1fa&scene=21#wechat_redirect)
  - [一键生成项目混淆代码插件](https://github.com/zhonghanwen/AndroidProguardPlugin)
-
-### Android Studio专题
- - [查看依赖关系的插件](https://github.com/rholder/gradle-view)
- - [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
- - [Android Studio 你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
- - [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
- - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
- - [方法数统计插件，可用于统计是否达到65536个方法](https://github.com/KeepSafe/dexcount-gradle-plugin)
- - [Android-Drawable-Importer插件](https://github.com/winterDroid/android-drawable-importer-intellij-plugin)
- - [GsonFormat Json对应的Bean快速生成插件](https://github.com/zzz40500/GsonFormat)
- - [android-selector-chapek Selector生成插件](https://github.com/inmite/android-selector-chapek)
- - [快速生成butterknife注解插件](https://github.com/avast/android-butterknife-zelezny)
- - [android-material-design-icon-generator图标插件](https://github.com/konifar/android-material-design-icon-generator-plugin)
- - [Retrolambda 在java 6 7中使用 lambda表达式插件](https://github.com/evant/gradle-retrolambda)
- - [Gradle依赖自动补齐插件](https://github.com/ligi/GradleDependenciesHelperPlugin)
- - [idea-markdown编辑器插件](https://github.com/nicoulaj/idea-markdown)
- - [从布局中生成View的声明插件](https://github.com/Haehnchen/idea-android-studio-plugin)
- - [codota代码片段搜索，支持Chrome和Android Studio](https://www.codota.com/)
- - [布局文件分组插件](https://github.com/dmytrodanylyk/folding-plugin)
- - [DPI计算插件](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
- - [gradle-publish 发布库插件](https://github.com/msdx/gradle-publish)
- - [发布lib到jcenter](https://github.com/andforce/release-android-lib-to-jcenter)
- - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
- - [android-studio-tips-tricks-moving-around/](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
- - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
- - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
- - [Android Studio 插件整理 48 个](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
 
 
 ### Gradle
