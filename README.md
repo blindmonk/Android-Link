@@ -22,18 +22,19 @@
    * [组件化](#android-热更新)
    * [热更新](#android-热更新)
    * [RxJava、agera](#rxjava-agera相关资料)
+   * [Android 值得关注的库](#安卓开发值得关注的库)
+   * [Android 值得关注的优秀内容和工具](#android-开发中值得看的优秀内容和工具)
+   * [Android 国外个人博客](#国外个人博客)
    
 * ### [Android 面试](#面试)
 
-* ### [Studio](#android-studio)
+* ### [Studio 插件、优化等](#android-studio)
 
 * ### [Gradle 知识库](#gradle)
 
 * ### [APK加固与反编译](#android-加固与反编译)
 
 * ### [Android 网络层库-包含图片相关](#安卓网络层包含图片)
-
-* ### [Android 值得关注的优秀内容和工具](#android-开发中值得看的优秀内容和工具)
 
 * ### [Android-orm框架，推荐使用GreenDao，Ormlite](#安卓orm框架用得比较多的就greendaoormlite)
 
@@ -51,8 +52,6 @@
 
 * ### [Android 社会化分享，短信验证等](#android社会化分享短信验证意见反馈支付等相关)
 
-* ### [Android 值得关注的库](#安卓开发值得关注的库)
-
 * ### [Android Drawable资源相关](#安卓资源相关)
 
 * ### [Git 教程](#git)
@@ -60,8 +59,6 @@
 * ### [Android NoSql相关](#android-nosql)
 
 * ### [设计网站，可以找到一些酷炫的设计稿](#设计网站可以寻找一些酷炫的设计稿)
-
-* ### [Android 国外个人博客](#国外个人博客)
 
 * ### [Ibeacon与蓝牙4.0](#ibeacon与蓝牙40相关)
 
