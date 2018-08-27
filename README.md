@@ -25,47 +25,47 @@
    
 * ### [Android 面试](#面试)
 
-* ### [Android Studio](#android-studio)
+* ### [Studio](#android-studio)
 
-* ### [Gradle知识库](#gradle)
+* ### [Gradle 知识库](#gradle)
 
-* ### [Android 加固与反编译](#android-加固与反编译)
+* ### [APK加固与反编译](#android-加固与反编译)
 
-* ### [Android 网络层库包含图片](#安卓网络层包含图片)
+* ### [Android 网络层库-包含图片相关](#安卓网络层包含图片)
 
-* ### [Android 开发中值得看的优秀内容和工具](#android-开发中值得看的优秀内容和工具)
+* ### [Android 值得关注的优秀内容和工具](#android-开发中值得看的优秀内容和工具)
 
-* ### [Android-orm框架，用得比较多的就GreenDao，Ormlite](#安卓orm框架用得比较多的就greendaoormlite)
+* ### [Android-orm框架，推荐使用GreenDao，Ormlite](#安卓orm框架用得比较多的就greendaoormlite)
 
-* ### [Android-Json解析](#安卓json解析)
+* ### [Android-Json数据解析工具](#安卓json解析)
 
-* ### [Android 开源软件](#android-开源软件)
+* ### [Android 开源项目](#android-开源软件)
 
-* ### [Android 开发辅助工具](#android-开发辅助工具)
+* ### [Android 常用辅助工具](#android-开发辅助工具)
 
-* ### [Android 推送（含IM）](#android-推送含im)
+* ### [Android 推送（含IM）相关](#android-推送含im)
 
-* ### [Android 后端等服务](#android-后端等服务)
+* ### [Android 后端等服务云](#android-后端等服务)
 
-* ### [Android 应用内测平台](#android-应用内测平台)
+* ### [Android APK内测平台](#android-应用内测平台)
 
-* ### [Android 社会化分享，短信验证，意见反馈，支付等相关](#android社会化分享短信验证意见反馈支付等相关)
+* ### [Android 社会化分享，短信验证等](#android社会化分享短信验证意见反馈支付等相关)
 
-* ### [Android 开发值得关注的库](#安卓开发值得关注的库)
+* ### [Android 值得关注的库](#安卓开发值得关注的库)
 
-* ### [Android 资源相关](#安卓资源相关)
+* ### [Android Drawable资源相关](#安卓资源相关)
 
-* ### [Git](#git)
+* ### [Git 教程](#git)
 
-* ### [Android NoSql](#android-nosql)
+* ### [Android NoSql相关](#android-nosql)
 
-* ### [设计网站，可以寻找一些酷炫的设计稿](#设计网站可以寻找一些酷炫的设计稿)
+* ### [设计网站，可以找到一些酷炫的设计稿](#设计网站可以寻找一些酷炫的设计稿)
 
-* ### [国外个人博客](#国外个人博客)
+* ### [Android 国外个人博客](#国外个人博客)
 
-* ### [Ibeacon与蓝牙4.0相关](#ibeacon与蓝牙40相关)
+* ### [Ibeacon与蓝牙4.0](#ibeacon与蓝牙40相关)
 
-* ### [WEB与前端相关](#web与前端相关)
+* ### [WEB与前端](#web与前端相关)
 
 
 
