@@ -27,6 +27,47 @@
 
 * ### [Android Studio](#android-studio)
 
+* ### [Gradle](#gradle)
+
+* ### [Android 加固与反编译](#android-加固与反编译)
+
+* ### [Android网络层库(包含图片)](#安卓网络层包含图片)
+
+* ### [Android 开发中值得看的优秀内容和工具](#android-开发中值得看的优秀内容和工具)
+
+* ### [Android-orm框架，用得比较多的就GreenDao，Ormlite](#安卓orm框架用得比较多的就greendaoormlite)
+
+* ### [Android-Json解析](#安卓json解析)
+
+* ### [Android 开源软件](#android-开源软件)
+
+* ### [Android 开发辅助工具](#android-开发辅助工具)
+
+* ### [Android 推送（含IM）](#android-推送含im)
+
+* ### [Android 后端等服务](#android-后端等服务)
+
+* ### [Android 应用内测平台](#android-应用内测平台)
+
+* ### [Android 社会化分享，短信验证，意见反馈，支付等相关](#android社会化分享短信验证意见反馈支付等相关)
+
+* ### [Android 开发值得关注的库](#安卓开发值得关注的库)
+
+* ### [Android 资源相关](#安卓资源相关)
+
+* ### [Git](#git)
+
+* ### [Android NoSql](#android-nosql)
+
+* ### [设计网站，可以寻找一些酷炫的设计稿](#设计网站可以寻找一些酷炫的设计稿)
+
+* ### [国外个人博客](#国外个人博客)
+
+* ### [Ibeacon与蓝牙4.0相关](#ibeacon与蓝牙40相关)
+
+* ### [WEB与前端相关](#web与前端相关)
+
+
 
 =============================================================
 
@@ -225,21 +266,6 @@
  - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
  - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
  - [Android Studio 插件整理 48 个](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
-
-
-
-## Docker
- - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
-
-## HTTP2.0
- - [测试是否支持http2.0，需翻墙](https://tools.keycdn.com/http2-test)
- - [httpvshttps](http://www.httpvshttps.com/)
- - [chrome 插件HTTP/2 and SPDY indicator](https://chrome.google.com/webstore/detail/mpbpobfflnpcgagjijhmgnchggcjblin)
- - [HTTP/2 资料汇总](https://imququ.com/post/http2-resource.html)
- - [HTTP 2.0的那些事](http://mrpeak.cn/blog/http2/)
- - [http2-spec](https://http2.github.io/http2-spec/#malformed)
- - [从启用 HTTP/2 导致网站无法访问说起](https://imququ.com/post/why-tls-handshake-failed-with-http2-enabled.html?f=http://blogread.cn/)
-
 
 ### Android Hybrid&JSBridge技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
