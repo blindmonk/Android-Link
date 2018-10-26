@@ -145,6 +145,7 @@
 
 
 ### Android 插件与动态加载
+ - [手机淘宝（插件化Atlas）](https://alibaba.github.io/atlas/)
  - [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
  - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
@@ -154,7 +155,6 @@
  - [微信/手Q加载方案](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
  - [Small](https://github.com/wequick/Small)
  - [Android博客周刊专题之《插件化开发》](http://www.androidblog.cn/index.php/Index/detail/id/16)
- - [Fast load dex in memory](https://github.com/asLody/TurboDex)
  - [Android Plugin Framework 插件开发框架及示例程序，原理介绍等](https://github.com/limpoxe/Android-Plugin-Framework)
  - [获取主dex](https://github.com/lizhangqu/MainDex)
  - [应用双开VirtualApp](https://github.com/asLody/VirtualApp)
@@ -163,6 +163,7 @@
  - [ANROID动态加载技术 系列索引](https://zhuanlan.zhihu.com/p/20515113)
 
 ### Android 热更新
+ - [微信tinker](http://www.tinkerpatch.com/Docs/intro)
  - [dexposed](https://github.com/alibaba/dexposed)
  - [AndFix](https://github.com/alibaba/AndFix)
  - [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
@@ -185,7 +186,9 @@
  - [美团Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
  
  
- ### RxJava agera相关资料
+ ### RxJava RxJava2相关资料
+ - [RxJava2 这可能是最好的RxJava 2.x 教程（完结版）](https://www.jianshu.com/p/0cd258eecf60)
+ - [RxJava 扔物线](https://gank.io/post/560e15be2dca930e00da1083)
  - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
  - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
@@ -198,8 +201,6 @@
  - [迷之RxJava （三）update —— 线程切换（二）](https://segmentfault.com/a/1190000004855661)
  - [迷之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
  - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
- - [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
- - [agera](https://github.com/google/agera/wiki)
  - [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 
@@ -237,18 +238,15 @@
  - [gradle-publish 发布库插件](https://github.com/msdx/gradle-publish)
  - [发布lib到jcenter](https://github.com/andforce/release-android-lib-to-jcenter)
  - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
- - [android-studio-tips-tricks-moving-around/](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
- - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
  - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
  - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
  - [Android Studio 插件整理 48 个](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
 
-### Android Hybrid&JSBridge技术
+### Android webview&JSBridge技术
+ - [WebView 性能和用户体验优化](https://www.jianshu.com/p/fc7909e24178)
+ - [WebView 全面干货指南](https://www.jianshu.com/p/fd61e8f4049e)
+ - [你要的WebView与 JS 交互方式 都在这里了](https://blog.csdn.net/carson_ho/article/details/64904691/)
+ - [手把手教你构建 Android WebView 的缓存机制 & 资源预加载方案](https://blog.csdn.net/carson_ho/article/details/71402764)
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
  - [谈谈App混合开发](http://www.tuicool.com/articles/m6RVFfA)
  - [在WebView中如何让JS与Java安全地互相调用](http://blog.csdn.net/xyz_lmn/article/details/39399225)
