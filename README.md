@@ -548,18 +548,5 @@
  - [Estimote SDK](https://github.com/Estimote/Android-SDK)
  - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
 
-
-### WEB与前端相关
- - [yii](http://www.yiichina.com/)
- - [yiibooster](http://yiibooster.clevertech.biz/)
- - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk)
- - [php_sae_storage](https://github.com/acczefly/php_sae_storage)
- - [Bootstrap](http://www.bootcss.com/)
- - [Font-Awesome字体图标](https://github.com/FortAwesome/Font-Awesome)
- - [sublime浏览器前缀插件](https://github.com/sindresorhus/sublime-autoprefixer)
- - [一个手势库](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)
- - [bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle)
- - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
- 
  
 
